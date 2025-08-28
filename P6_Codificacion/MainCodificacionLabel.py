@@ -25,3 +25,5 @@ for i in range(0, len(instancia)):
     registro = instancia.loc[i].tolist()
     print(str(registro))
 
+
+

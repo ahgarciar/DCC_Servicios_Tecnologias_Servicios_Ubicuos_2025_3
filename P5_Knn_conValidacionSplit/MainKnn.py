@@ -21,7 +21,7 @@ tot_reg_validacion = len(instancia) - tot_reg_entrenamiento
 
 ############################
 
-#estratificacion...
+#estratificacion-balanceo...
 # cuantos registros tengo de cada clase
 # tratar de que entre entrenamiento y validacion se tenga un equilibrio entre la cantidad
 # de registros por clase
