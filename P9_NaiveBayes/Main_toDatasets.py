@@ -1,6 +1,5 @@
 
-
-file2read = open("iris_training.csv")
+file2read = open("../Archivos/iris/instancia_discretizada_EFB.csv")
 file_content = file2read.readlines()
 
 #############################################################################################
